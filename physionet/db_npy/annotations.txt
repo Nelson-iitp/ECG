@@ -1,0 +1,41 @@
+N	b	Normal beat
+L	b	Left bundle branch block beat
+R	b	Right bundle branch block beat
+B	b	Bundle branch block beat (unspecified)
+A	b	Atrial premature beat
+a	b	Aberrated atrial premature beat
+J	b	Nodal (junctional) premature beat
+S	b	Supraventricular premature or ectopic beat (atrial or nodal)
+V	b	Premature ventricular contraction
+r	b	R-on-T premature ventricular contraction
+F	b	Fusion of ventricular and normal beat
+e	b	Atrial escape beat
+j	b	Nodal (junctional) escape beat
+n	b	Supraventricular escape beat (atrial or nodal)
+E	b	Ventricular escape beat
+/	b	Paced beat
+f	b	Fusion of paced and normal beat
+Q	b	Unclassifiable 
+?	b	Beat not classified during learning
+[	n	Start of ventricular flutter/fibrillation
+!	n	Ventricular flutter wave
+]	n	End of ventricular flutter/fibrillation
+x	n	Non-conducted P-wave (blocked APC)
+(	n	Waveform onset
+)	n	Waveform end
+p	n	Peak of P-wave
+t	n	Peak of T-wave
+u	n	Peak of U-wave
+`	n	PQ junction
+'	n	J-point
+^	n	(Non-captured) pacemaker artifact
+|	n	Isolated QRS-like artifact [1]
+~	n	Change in signal quality [1]
++	n	Rhythm change [2]
+s	n	ST segment change [2]
+T	n	T-wave change [2]
+*	n	Systole
+D	n	Diastole
+=	n	Measurement annotation [2]
+"	n	Comment annotation [2]
+@	n	Link to external data [3]
